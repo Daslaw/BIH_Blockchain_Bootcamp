@@ -42,10 +42,6 @@ This smart contract is licensed under the GPL-3.0 license.
 
 If you'd like to contribute to the development of this project, feel free to submit pull requests or open issues on the GitHub repository.
 
-## Contact
-
-- [Developer](mailto:daslaw26@gmail.com)
-
 ## Acknowledgments
 
 We would like to thank the Arbitrum and BIH communities for their continuous support and contributions to blockchain technology.
