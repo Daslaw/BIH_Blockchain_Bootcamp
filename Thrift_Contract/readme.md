@@ -15,18 +15,8 @@ To deploy and interact with the ThriftSmartContract, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/thrift-smart-contract.git
+   git clone https://github.com/Daslaw/BIH_Blockchain_Bootcamp/tree/main/Thrift_Contract
    ```
-
-2. Install the required dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Deploy the smart contract using a development environment like Remix.
-
-4. Interact with the deployed contract using your preferred Ethereum wallet or development environment.
 
 ## Smart Contract Details
 
